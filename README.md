@@ -120,6 +120,17 @@ npm run build
 
 The built files will be in the `dist` directory.
 
+
+## Authors
+
+***Abdul Saboor***
+***Khansa Younas***
+
+---
+
+
 ## License
 
-This is a demo project for educational purposes.
+This is a demo project for educational purposes. 
+
+
