@@ -11,6 +11,7 @@ export default {
           blue: '#1e40af',
           light: '#3b82f6',
           dark: '#1e3a8a',
+          lavender: '#e6e6fa'
         }
       }
     },
