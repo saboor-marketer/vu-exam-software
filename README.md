@@ -134,5 +134,3 @@ The built files will be in the `dist` directory.
 This is a demo project for educational purposes. 
 
 
-
-
